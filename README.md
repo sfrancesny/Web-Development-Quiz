@@ -29,11 +29,11 @@ THEN I can save my initials and score
 This following website is intended to be a mock questionnaire. Completing this coding assessment, will prehaps help the user to retain information that could potentially help with the interview process.
 
  ## Screenshots
-<img src=""/>
-<img src=""/> 
-<img src=""/> 
-<img src=""/>
-<img src=""/> 
+<img src="wdq-0.png"/>
+<img src="wdq-1.png"/> 
+<img src="wdq-2.png"/> 
+<img src="wdq-3.png"/>
+<img src="wdq-4.png"/> 
 
 
 Link: https://sfrancesny.github.io/
