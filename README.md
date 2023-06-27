@@ -36,7 +36,7 @@ This following website is intended to be a mock questionnaire. Completing this c
 <img src="wdq-4.png"/> 
 
 
-Link: https://sfrancesny.github.io/
+Link: https://sfrancesny.github.io/Web-Development-Quiz/
 
 ## Resources
 https://chat.openai.com/
