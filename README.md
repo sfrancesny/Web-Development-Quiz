@@ -39,3 +39,4 @@ This following website is intended to be a mock questionnaire. Completing this c
 Link: https://sfrancesny.github.io/
 
 ## Resources
+https://chat.openai.com/
